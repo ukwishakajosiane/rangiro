@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.navitem{
+    display: flex;
+    flex-direction: rows;
+    gap: 45px;
+}
+.hero{
+    display: flex;
+    flex-direction: ;
+    gap: 30;
+}
+.image img{ 
+    width:98px ;
+    height: 98px;
+    border-radius: 50px; 
+
+}
+.hero image{
+    background-color: blue;
+}
+
